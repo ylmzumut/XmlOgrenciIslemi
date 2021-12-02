@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XMLOgrenciIslemleri_IU", "..\20211201Carsamba\Ornek03\XMLOgrenciIslemleri_IU.csproj", "{7C098C10-EAA0-4471-A675-F4057FDFA5A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XMLOgrenciIslemleri_IU", "XMLOgrenciIslemleri_IU\XMLOgrenciIslemleri_IU.csproj", "{8A191DF9-BD43-4D67-B610-330DC96645FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C098C10-EAA0-4471-A675-F4057FDFA5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C098C10-EAA0-4471-A675-F4057FDFA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C098C10-EAA0-4471-A675-F4057FDFA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C098C10-EAA0-4471-A675-F4057FDFA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A191DF9-BD43-4D67-B610-330DC96645FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A191DF9-BD43-4D67-B610-330DC96645FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A191DF9-BD43-4D67-B610-330DC96645FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A191DF9-BD43-4D67-B610-330DC96645FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1C3CEA7A-08A0-4298-B649-EAADAF0AAF0A}
+		SolutionGuid = {06B92BE4-B9EC-40F1-8DB1-0AD347C7F335}
 	EndGlobalSection
 EndGlobal
